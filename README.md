@@ -9,3 +9,8 @@ Link: https://leetcode.com/studyplan/top-interview-150/
 ### Stack
 
 - [x] [Valid Parentheses](stack/valid_parentheses.cpp)
+
+
+### Two pointers
+
+- [x] [3sum](two-pointers/3sums.cpp)
