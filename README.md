@@ -58,4 +58,6 @@ Link: https://leetcode.com/studyplan/top-interview-150/
 - [ ] Lowest Common Ancestor of a Binary Tree
 
 
-### 
+### 1D DP
+
+- [x] [Coin change](DP/coin-change.cpp)
