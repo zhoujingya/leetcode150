@@ -24,7 +24,7 @@ Link: https://leetcode.com/studyplan/top-interview-150/
 ### Two pointers
 
 - [x] [3sum](two-pointers/3sums.cpp)
-
+- [x] [Valid Palindrome](two-pointers/valid_palindrome.cpp)
 
 ### Link-list
 
