@@ -56,6 +56,7 @@ Link: https://leetcode.com/studyplan/top-interview-150/
 - [ ] Binary Search Tree Iterator
 - [ ] Count Complete Tree Nodes
 - [ ] Lowest Common Ancestor of a Binary Tree
+- [x] [Kth Smallest Element in a BST](tree/kth_smallest_element_in_a_bst.cpp)
 
 
 ### 1D DP
