@@ -44,7 +44,7 @@ Link: https://leetcode.com/studyplan/top-interview-150/
 
 - [ ] Maximum Depth of Binary Tree
 - [ ] Same Tree
-- [ ] Invert Binary Tree
+- [x] [Invert Binary Tree](tree/invert_binary_tree.cpp)
 - [ ] Symmetric Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Construct Binary Tree from Inorder and Postorder Traversal

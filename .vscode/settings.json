@@ -2,7 +2,9 @@
   "files.associations": {
     "*.groovy": "jenkinsfile",
     "stack": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "cctype": "cpp",
+    "string": "cpp"
   },
   "C_Cpp.clang_format_fallbackStyle": "llvm"
 }
