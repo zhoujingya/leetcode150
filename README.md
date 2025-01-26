@@ -62,3 +62,8 @@ Link: https://leetcode.com/studyplan/top-interview-150/
 ### 1D DP
 
 - [x] [Coin change](DP/coin-change.cpp)
+
+
+### Hash Table
+
+- [x] [Contains Duplicate II](hash-table/contains_duplicate_ii.cpp)
